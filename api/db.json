@@ -1,15 +1,25 @@
 {
   "streams": [
     {
-      "title": "asdas",
-      "description": "dasd",
+      "title": "First Stream!",
+      "description": "Started",
       "id": 1
     },
     {
       "title": "MyStream",
       "description": "I created it",
-      "userId": "112641320701925897261",
       "id": 2
+    },
+    {
+      "title": "Programatic Navigation",
+      "description": "My last chance",
+      "userId": "112641320701925897261",
+      "id": 3
+    },
+    {
+      "title": "Stream After Refact",
+      "description": "Testing the refactor!",
+      "id": 4
     }
   ]
 }
